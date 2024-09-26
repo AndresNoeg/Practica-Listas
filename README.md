@@ -96,9 +96,6 @@ print(thislist[2:5])
 
 print(" ")
 
-print(" ")
-print("Gomez Garcia Andres Noe: Practica lists")
-print(" ")
 
 ![image](https://github.com/user-attachments/assets/c083bd04-8fc4-4b33-b8f6-a1c2aee6d2fe)
 
