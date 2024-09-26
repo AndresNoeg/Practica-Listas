@@ -1,6 +1,10 @@
 # Practica-Listas
 
 print(" ")
+print("Gomez Garcia Andres Noe: Practica lists")
+print(" ")
+
+print(" ")
 
 print("Gomez Garcia Andres Noe: Practica listas")
 
@@ -41,8 +45,68 @@ print(list2)
 print(" ")
 
 print(list3)
+print(" ")
+#Practica 8  donde usamos listas
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
 
-![image](https://github.com/user-attachments/assets/695b4f5e-0cb3-483f-8b46-c5439301be09)
+#cuando usamos (len( )) te despliega
+#el numero de elementos de la lista
+thislist2 = ["apple", "banana", "cherry"]
+print(len(thislist))
 
-![image](https://github.com/user-attachments/assets/5ae40cbc-7a63-41c3-8781-b816b15ab2b9)
+
+
+#Separa con un espacio
+print(" ")
+#Da valores a varias listas
+list1 = ["apple", "banana", "cherry"]
+list2 = [1, 5, 7, 9, 3]
+list3 = [True, False, False]
+list4 = ["abc", 34, True, 40, "male"]
+
+#Muestra los miembros de cada lista
+print(list1)
+print(list2)
+print(list3)
+print(list4)
+
+
+print(" ")
+
+thislist = ["apple", "banana", "cherry"]
+
+#Muestra el miembro 1 y comienza en Cero 0
+print(thislist[1])
+
+#Muestra el ultimo miembro de la lisa
+print(thislist[-1])
+
+print(" ")
+#imprime la lista 1 la lista 3 a lista 5
+print(list1," ", list3," ", list4)
+print(list1[2:4])
+
+
+# el 2:5 muestra a patir de la posicion 2 a la 5 de los miembros de la lista
+# entendiendo que la posicion que tiene apple es 0 cero
+
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[2:5])
+
+print(" ")
+
+print(" ")
+print("Gomez Garcia Andres Noe: Practica lists")
+print(" ")
+
+![image](https://github.com/user-attachments/assets/c083bd04-8fc4-4b33-b8f6-a1c2aee6d2fe)
+
+![image](https://github.com/user-attachments/assets/91f5ebfe-f6ba-4bb4-a568-09cfc8b68c86)
+
+![image](https://github.com/user-attachments/assets/df33bd72-cb74-47e5-94c9-756af692f151)
+
+
+
+
 
